@@ -1,0 +1,2 @@
+# TeleGram_Socrates_Selfstudy_Mayeutics_bot
+Телеграм бот СамоОбучение методом майевтика Сократа
